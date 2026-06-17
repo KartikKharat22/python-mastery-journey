@@ -26,4 +26,4 @@ Build strong Python foundations for:
 
 ## Progress
 
-Completed: 00 / 200 Questions
+Completed: 13 Questions
